@@ -33,7 +33,7 @@ export const InstagramMobileLogo = () => (
 );
 const HiveLogoComponent = () => (
     <img
-        src={"./public/HiveLogoWhiteCropped.png"} // Correct path using forward slashes
+        src={"/HiveLogoWhiteCropped.png"} // Correct path using forward slashes
         alt="Hive Logo"
         style={{ width: '185px', height: '76px'  }} // Adjust dimensions as needed
     />
