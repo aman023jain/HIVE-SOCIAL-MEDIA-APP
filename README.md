@@ -1,6 +1,8 @@
 # Hive Social Media App
 
-![Hive Logo](./public/HiveLogoWhiteCropped.png)
+<p align="center">
+  <img src="./public/HiveLogoWhiteCropped.png" alt="Hive Logo">
+</p>
 
 ## CONNECT. SHARE. THRIVE.
 
