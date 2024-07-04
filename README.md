@@ -4,9 +4,9 @@
   <img src="./public/HiveLogoWhiteCropped.png" alt="Hive Logo">
 </p>
 
-## CONNECT. SHARE. THRIVE.
 
-Welcome to Hive, the social media app designed for those who crave connection and want to stay in the know. Hive is your platform to share photos, connect with friends, and discover new content effortlessly.
+
+Welcome to [Hive](https://hive-socialmedia-application.vercel.app/auth), the social media app designed for those who crave connection and want to stay in the know. Hive is your platform to share photos, connect with friends, and discover new content effortlessly.
 
 ## Features
 
