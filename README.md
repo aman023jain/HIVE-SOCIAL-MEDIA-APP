@@ -1,6 +1,6 @@
 # Hive Social Media App
 
-
+![Hive Logo](./public/HiveLogoWhiteCropped.png)
 
 ## CONNECT. SHARE. THRIVE.
 
