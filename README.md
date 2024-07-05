@@ -33,7 +33,7 @@ Hive leverages a robust and modern technology stack to ensure a seamless and hig
 - **UI Design**: Implemented [Chakra UI](https://chakra-ui.com/) for building accessible and reusable UI components, ensuring a consistent and visually appealing design across the app.
 - **State Management**: Adopted [Zustand](https://zustand-demo.pmnd.rs/) for managing global states, providing a lightweight and flexible state management solution.
 - **Custom Hooks**: Developed various custom hooks to promote code reusability and efficient state management, enhancing the modularity and maintainability of the codebase.
--**Database Structure**: Hive uses a non-relational JSON format for its database, which simplifies data storage and retrieval.
+- **Database Structure**: Hive uses a non-relational JSON format for its database, which simplifies data storage and retrieval.
 
 
 
