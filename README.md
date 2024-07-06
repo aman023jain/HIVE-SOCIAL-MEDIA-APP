@@ -35,6 +35,11 @@ Hive leverages a robust and modern technology stack to ensure a seamless and hig
 - **Custom Hooks**: Developed various custom hooks to promote code reusability and efficient state management, enhancing the modularity and maintainability of the codebase.
 - **Database Structure**: Hive uses a non-relational JSON format for its database, which simplifies data storage and retrieval.
 
+## Firebase Services and Database Document Schema
+
+<p align="center">
+  <img src="./public/Firebase_Services_Architecture.png" alt="Hive Logo">
+</p>
 
 
 
