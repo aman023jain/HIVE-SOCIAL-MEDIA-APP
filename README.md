@@ -38,7 +38,7 @@ Hive leverages a robust and modern technology stack to ensure a seamless and hig
 ## Firebase Services and Database Document Schema
 
 <p align="center">
-  <img src="./public/Firebase_Services_Architecture.png" alt="Firebase_Services_Architecture" style="width: 800px; height: auto;>
+  <img src="./public/Firebase_Services_Architecture.png" alt="Firebase_Services_Architecture" style="width: 800px; height: auto;">
 </p>
 
 
